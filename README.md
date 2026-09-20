@@ -2,7 +2,7 @@
 
 一部关于数字游民的四幕互动电影。三十二个选择，没有对错，只有方向。走完之后，你会知道自己站在哪里。
 
-**在线体验**：https://<你的用户名>.github.io/nomadlens/
+**在线体验**：[https://<你的用户名>.github.io/nomadlens/](https://servusndaye-rgb.github.io/NomadLens/)
 
 ---
 
